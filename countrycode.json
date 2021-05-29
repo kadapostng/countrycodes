@@ -1,0 +1,77 @@
+[
+  {
+    "country":"Afghanistan",
+    "code":"93",
+    "iso":"AF / AFG"
+  },
+  {
+    "country":"Albania",
+    "code":"355",
+    "iso":"AL / ALB"
+  },
+  {
+    "country":"Algeria",
+    "code":"213",
+    "iso":"DZ / DZA"
+  },
+  {
+    "country":"American Samoa",
+    "code":"1-684",
+    "iso":"AS / ASM"
+  },
+  {
+    "country":"Andorra",
+    "code":"376",
+    "iso":"AD / AND"
+  },
+  {
+    "country":"Angola",
+    "code":"244",
+    "iso":"AO / AGO"
+  },
+  {
+    "country":"Anguilla",
+    "code":"1-264",
+    "iso":"AI / AIA"
+  },
+  {
+    "country":"Antarctica",
+    "code":"672",
+    "iso":"AQ / ATA"
+  },
+  {
+    "country":"Antigua and Barbuda",
+    "code":"1-268",
+    "iso":"AG / ATG"
+  },
+  {
+    "country":"Argentina",
+    "code":"54",
+    "iso":"AR / ARG"
+  },
+  {
+    "country":"Armenia",
+    "code":"374",
+    "iso":"AM / ARM"
+  },
+  {
+    "country":"Aruba",
+    "code":"297",
+    "iso":"AW / ABW"
+  },
+  {
+    "country":"Australia",
+    "code":"61",
+    "iso":"AU / AUS"
+  },
+  {
+    "country":"Austria",
+    "code":"43",
+    "iso":"AT / AUT"
+  },
+  {
+    "country":"Azerbaijan",
+    "code":"994",
+    "iso":"AZ / AZE"
+  }
+]
