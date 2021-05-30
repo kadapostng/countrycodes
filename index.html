@@ -21,7 +21,7 @@
 
 <div class="bg-steel-blue" style="position: sticky; top: 0; z-index: 9;">
   <div class="container py-1">
-    <h1>CountryCodes</h1>
+    <h1>CountryCode</h1>
     <div>
       <span></span>
       <span></span>
@@ -76,118 +76,7 @@
 </div>
 
 <script>
-let cci =
-[
-  {
-    country: "Afghanistan",
-    code: "93",
-    iso: "AF / AFG"
-  },
-  {
-    country: "Albania",
-    code: "355",
-    iso: "AL / ALB"
-  },
-  {
-    country: "Algeria",
-    code: "213",
-    iso: "DZ / DZA"
-  },
-  {
-    country: "American Samoa",
-    code: "1-684",
-    iso: "AS / ASM"
-  },
-  {
-    country: "Andorra",
-    code: "376",
-    iso: "AD / AND"
-  },
-  {
-    country: "Angola",
-    code: "244",
-    iso: "AO / AGO"
-  },
-  {
-    country: "Anguilla",
-    code: "1-264",
-    iso: "AI / AIA"
-  },
-  {
-    country: "Antarctica",
-    code: "672",
-    iso: "AQ / ATA"
-  },
-  {
-    country: "Antigua and Barbuda ",
-    code: "1-268",
-    iso: "AG / ATG"
-  },
-  {
-    country: "Argentina",
-    code: "54",
-    iso: "AR / ARG"
-  },
-  {
-    country: "Armenia",
-    code: "374",
-    iso: "AM / ARM"
-  },
-  {
-    country: "Aruba",
-    code: "297",
-    iso: "AW / ABW"
-  },
-  {
-    country: "Australia",
-    code: "61",
-    iso: "AU / AUS"
-  },
-  {
-    country: "Austria",
-    code: "43",
-    iso: "AT / AUT"
-  },
-  {
-    country: "Azerbaijan",
-    code: "994",
-    iso: "AZ / AZE"
-  },
-]
 
-initCoun(cci)
-
-function initCoun(arr) {
-  let countries = document.getElementById('countries')
-  let tbl = document.getElementById('countryTbl')
-  tbl.innerHTML = '<tr><th>Country</th><th>Country Code</th><th>ISO Code</th></tr>'
-  let ttc = 0
-  for (let c of arr) {
-    let opt = document.createElement('option')
-    opt.setAttribute('value', c.country)
-    countries.appendChild(opt)
-    
-    let tr = document.createElement('tr')
-    let td1 = document.createElement('td')
-    td1.innerHTML = c.country
-    let td2 = document.createElement('td')
-    td2.innerHTML = c.code
-    let td3 = document.createElement('td')
-    td3.innerHTML = c.iso
-    tr.appendChild(td1)
-    tr.appendChild(td2)
-    tr.appendChild(td3)
-    tbl.appendChild(tr)
-    ttc++
-  }
-}
-
-function filterCountry(ct) {
-  let ctlist = cci.filter(function(value, index, array) {
-    return value.country == ct
-  })
-  initCoun(ctlist)
-}
 </script>
 </body>
 </html>
