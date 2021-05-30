@@ -37,7 +37,7 @@
       <div class="col-md-6">
         <div class="container card bg-steel-blue py-3">
           <input list="countries" id="country" class="form-control" placeholder="Search a Country" oninput=
-          "filterCountry(this.value)">
+          "filterTableBody(this.value, 'codeTableBody')">
           <datalist id="countries" size="3">
             <!-- <option value="Nigeria"> -->
           </datalist>
@@ -54,11 +54,16 @@
     <h2 class="text-center">Country Codes</h2>
     <div class="table-responsive">
       <table class="table" id="countryTbl">
-        <tr>
-          <th>Country</th>
-          <th>Country Code</th>
-          <th>ISO Code</th>
-        </tr>
+        <thead>
+          <tr>
+            <th>Country</th>
+            <th>Country Code</th>
+            <th>ISO Code</th>
+          </tr>
+        </thead>
+        <tbody id="codeTableBody">
+
+        </tbody>
       </table>
     </div>
   </div>
@@ -76,7 +81,39 @@
 </div>
 
 <script>
+let countries = []
 
+function loadTableBody(id, fl) {
+  let xhttp = new XMLHttpRequest
+  xhttp.onreadystatechange = function() {
+    if (this.readyState == 4 && this.status == 200) {
+      let tbody = document.getElementById(id)
+      countries = JSON.parse(this.responseText)
+      countries.forEach(elm => {
+        tbody.innerHTML +=
+        '<tr><td>' + elm.country + '</td><td>' + elm.code + '</td><td>' + elm.iso + '</td></tr>'
+      });
+    }
+  }
+  xhttp.open('GET', fl, true)
+  xhttp.send()
+}
+loadTableBody('codeTableBody', 'countrycode.json')
+
+function filterTableBody(str, id) {
+  let q = str.toLowerCase()
+  let rs = countries.filter(inFunc)
+  if (str == '') rs = countries
+  function inFunc(value) {
+    return (value.country).toLowerCase().includes(q)
+  }
+  let tbody = document.getElementById(id)
+  tbody.innerHTML = ''
+  rs.forEach(elm => {
+    tbody.innerHTML +=
+    '<tr><td>' + elm.country + '</td><td>' + elm.code + '</td><td>' + elm.iso + '</td></tr>'
+  });
+}
 </script>
 </body>
 </html>
