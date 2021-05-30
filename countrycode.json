@@ -73,5 +73,205 @@
     "country":"Azerbaijan",
     "code":"994",
     "iso":"AZ / AZE"
+  },
+  {
+    "country":"Bahamas",
+    "code":"1-242",
+    "iso":"BS / BHS"
+  },
+  {
+    "country":"Bahrain",
+    "code":"973",
+    "iso":"BH / BHR"
+  },
+  {
+    "country":"Bangladesh",
+    "code":"880",
+    "iso":"BD / BGD"
+  },
+  {
+    "country":"Barbados",
+    "code":"1-246",
+    "iso":"BB / BRB"
+  },
+  {
+    "country":"Belarus",
+    "code":"375",
+    "iso":"BY / BLR"
+  },
+  {
+    "country":"Belgium",
+    "code":"32",
+    "iso":"BE / BEL"
+  },
+  {
+    "country":"Belize",
+    "code":"501",
+    "iso":"BZ / BLZ"
+  },
+  {
+    "country":"Benin",
+    "code":"229",
+    "iso":"BJ / BEN"
+  },
+  {
+    "country":"Bermuda",
+    "code":"1-441",
+    "iso":"BM / BMU"
+  },
+  {
+    "country":"Bhutan",
+    "code":"975",
+    "iso":"BT / BTN"
+  },
+  {
+    "country":"Bolivia",
+    "code":"591",
+    "iso":"BO / BOL"
+  },
+  {
+    "country":"Bosnia and Herzegovina",
+    "code":"387",
+    "iso":"BA / BIH"
+  },
+  {
+    "country":"Botswana",
+    "code":"267",
+    "iso":"BW / BWA"
+  },
+  {
+    "country":"Brazil",
+    "code":"55",
+    "iso":"BR / BRA"
+  },
+  {
+    "country":"British Indian Ocean Territory",
+    "code":"246",
+    "iso":"IO / IOT"
+  },
+  {
+    "country":"British Virgin Islands",
+    "code":"1-284",
+    "iso":"VG / VGB"
+  },
+  {
+    "country":"Brunei",
+    "code":"673",
+    "iso":"BN / BRN"
+  },
+  {
+    "country":"Bulgaria",
+    "code":"359",
+    "iso":"BG / BGR"
+  },
+  {
+    "country":"Burkina Faso",
+    "code":"226",
+    "iso":"BF / BFA"
+  },
+  {
+    "country":"Burundi",
+    "code":"257",
+    "iso":"BI / BDI"
+  },
+  {
+    "country":"",
+    "code":"",
+    "iso":""
+  },
+  {
+    "country":"",
+    "code":"",
+    "iso":""
+  },
+  {
+    "country":"",
+    "code":"",
+    "iso":""
+  },
+  {
+    "country":"",
+    "code":"",
+    "iso":""
+  },
+  {
+    "country":"",
+    "code":"",
+    "iso":""
+  },
+  {
+    "country":"",
+    "code":"",
+    "iso":""
+  },
+  {
+    "country":"",
+    "code":"",
+    "iso":""
+  },
+  {
+    "country":"",
+    "code":"",
+    "iso":""
+  },
+  {
+    "country":"",
+    "code":"",
+    "iso":""
+  },
+  {
+    "country":"",
+    "code":"",
+    "iso":""
+  },
+  {
+    "country":"",
+    "code":"",
+    "iso":""
+  },
+  {
+    "country":"",
+    "code":"",
+    "iso":""
+  },
+  {
+    "country":"",
+    "code":"",
+    "iso":""
+  },
+  {
+    "country":"",
+    "code":"",
+    "iso":""
+  },
+  {
+    "country":"",
+    "code":"",
+    "iso":""
+  },
+  {
+    "country":"",
+    "code":"",
+    "iso":""
+  },
+  {
+    "country":"",
+    "code":"",
+    "iso":""
+  },
+  {
+    "country":"",
+    "code":"",
+    "iso":""
+  },
+  {
+    "country":"",
+    "code":"",
+    "iso":""
+  },
+  {
+    "country":"",
+    "code":"",
+    "iso":""
   }
 ]
