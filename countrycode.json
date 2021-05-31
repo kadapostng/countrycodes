@@ -275,6 +275,151 @@
     "iso":"CZ / CZE"
   },
   {
+    "country":"Democratic Republic of the Congo",
+    "code":"243",
+    "iso":"CD / COD"
+  },
+  {
+    "country":"Denmark",
+    "code":"45",
+    "iso":"DK / DNK"
+  },
+  {
+    "country":"Djibouti",
+    "code":"253",
+    "iso":"DJ / DJI"
+  },
+  {
+    "country":"Dominica",
+    "code":"1-767",
+    "iso":"DM / DMA"
+  },
+  {
+    "country":"Dominican Republic",
+    "code":"1-809, 1-829, 1-849",
+    "iso":"DO / DOM"
+  },
+  {
+    "country":"East Timor",
+    "code":"670",
+    "iso":"TL / TLS"
+  },
+  {
+    "country":"Ecuador",
+    "code":"593",
+    "iso":"EC / ECU"
+  },
+  {
+    "country":"Egypt",
+    "code":"20",
+    "iso":"EG / EGY"
+  },
+  {
+    "country":"El Salvador",
+    "code":"503",
+    "iso":"SV / SLV"
+  },
+  {
+    "country":"Equatorial Guinea",
+    "code":"240",
+    "iso":"GQ / GNQ"
+  },
+  {
+    "country":"Eritrea",
+    "code":"291",
+    "iso":"ER / ERI"
+  },
+  {
+    "country":"Estonia",
+    "code":"372",
+    "iso":"EE / EST"
+  },
+  {
+    "country":"Ethiopia",
+    "code":"251",
+    "iso":"ET / ETH"
+  },
+  {
+    "country":"Falkland Islands",
+    "code":"500",
+    "iso":"FK / FLK"
+  },
+  {
+    "country":"Faroe Islands",
+    "code":"298",
+    "iso":"FO / FRO"
+  },
+  {
+    "country":"Fiji",
+    "code":"679",
+    "iso":"FJ / FJI"
+  },
+  {
+    "country":"Finland",
+    "code":"358",
+    "iso":"FI / FIN"
+  },
+  {
+    "country":"France",
+    "code":"33",
+    "iso":"FR / FRA"
+  },
+  {
+    "country":"French Polynesia",
+    "code":"689",
+    "iso":"PF / PYF"
+  },
+  {
+    "country":"",
+    "code":"",
+    "iso":""
+  },
+  {
+    "country":"",
+    "code":"",
+    "iso":""
+  },
+  {
+    "country":"",
+    "code":"",
+    "iso":""
+  },
+  {
+    "country":"",
+    "code":"",
+    "iso":""
+  },
+  {
+    "country":"",
+    "code":"",
+    "iso":""
+  },
+  {
+    "country":"",
+    "code":"",
+    "iso":""
+  },
+  {
+    "country":"",
+    "code":"",
+    "iso":""
+  },
+  {
+    "country":"",
+    "code":"",
+    "iso":""
+  },
+  {
+    "country":"",
+    "code":"",
+    "iso":""
+  },
+  {
+    "country":"",
+    "code":"",
+    "iso":""
+  },
+  {
     "country":"",
     "code":"",
     "iso":""
