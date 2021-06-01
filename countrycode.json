@@ -370,29 +370,99 @@
     "iso":"PF / PYF"
   },
   {
-    "country":"",
-    "code":"",
-    "iso":""
+    "country":"Gabon",
+    "code":"241",
+    "iso":"GA / GAB"
   },
   {
-    "country":"",
-    "code":"",
-    "iso":""
+    "country":"Gambia",
+    "code":"220",
+    "iso":"GM / GMB"
   },
   {
-    "country":"",
-    "code":"",
-    "iso":""
+    "country":"Georgia",
+    "code":"995",
+    "iso":"GE / GEO"
   },
   {
-    "country":"",
-    "code":"",
-    "iso":""
+    "country":"Germany",
+    "code":"49",
+    "iso":"DE / DEU"
   },
   {
-    "country":"",
-    "code":"",
-    "iso":""
+    "country":"Ghana",
+    "code":"233",
+    "iso":"GH / GHA"
+  },
+  {
+    "country":"Gibraltar",
+    "code":"350",
+    "iso":"GI / GIB"
+  },
+  {
+    "country":"Greece",
+    "code":"30",
+    "iso":"GR / GRC"
+  },
+  {
+    "country":"Greenland",
+    "code":"299",
+    "iso":"GL / GRL"
+  },
+  {
+    "country":"Grenada",
+    "code":"1-473",
+    "iso":"GD / GRD"
+  },
+  {
+    "country":"Guam",
+    "code":"1-671",
+    "iso":"GU / GUM"
+  },
+  {
+    "country":"Guatemala",
+    "code":"502",
+    "iso":"GT / GTM"
+  },
+  {
+    "country":"Guernsey",
+    "code":"44-1481",
+    "iso":"GG / GGY"
+  },
+  {
+    "country":"Guinea",
+    "code":"224",
+    "iso":"GN / GIN"
+  },
+  {
+    "country":"Guinea-Bissau",
+    "code":"245",
+    "iso":"GW / GNB"
+  },
+  {
+    "country":"Guyana",
+    "code":"592",
+    "iso":"GY / GUY"
+  },
+  {
+    "country":"Haiti",
+    "code":"509",
+    "iso":"HT / HTI"
+  },
+  {
+    "country":"Honduras",
+    "code":"504",
+    "iso":"HN / HND"
+  },
+  {
+    "country":"Hong Kong",
+    "code":"852",
+    "iso":"HK / HKG"
+  },
+  {
+    "country":"Hungary",
+    "code":"36",
+    "iso":"HU / HUN"
   },
   {
     "country":"",
