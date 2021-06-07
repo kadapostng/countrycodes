@@ -565,6 +565,251 @@
     "iso":"KG / KGZ"
   },
   {
+    "country":"Laos",
+    "code":"856",
+    "iso":"LA / LAO"
+  },
+  {
+    "country":"Latvia",
+    "code":"371",
+    "iso":"LV / LVA"
+  },
+  {
+    "country":"Lebanon",
+    "code":"961",
+    "iso":"LB / LBN"
+  },
+  {
+    "country":"Lesotho",
+    "code":"266",
+    "iso":"LS / LSO"
+  },
+  {
+    "country":"Liberia",
+    "code":"231",
+    "iso":"LR / LBR"
+  },
+  {
+    "country":"Libya",
+    "code":"218",
+    "iso":"LY / LBY"
+  },
+  {
+    "country":"Liechtenstein",
+    "code":"423",
+    "iso":"LI / LIE"
+  },
+  {
+    "country":"Lithuania",
+    "code":"370",
+    "iso":"LT / LTU"
+  },
+  {
+    "country":"Luxembourg",
+    "code":"352",
+    "iso":"LU / LUX"
+  },
+  {
+    "country":"Macau",
+    "code":"853",
+    "iso":"MO / MAC"
+  },
+  {
+    "country":"Macedonia",
+    "code":"389",
+    "iso":"MK / MKD"
+  },
+  {
+    "country":"Madagascar",
+    "code":"261",
+    "iso":"MG / MDG"
+  },
+  {
+    "country":"Malawi",
+    "code":"265",
+    "iso":"MW / MWI"
+  },
+  {
+    "country":"Malaysia",
+    "code":"60",
+    "iso":"MY / MYS"
+  },
+  {
+    "country":"Maldives",
+    "code":"960",
+    "iso":"MV / MDV"
+  },
+  {
+    "country":"Mali",
+    "code":"223",
+    "iso":"ML / MLI"
+  },
+  {
+    "country":"Malta",
+    "code":"356",
+    "iso":"MT / MLT"
+  },
+  {
+    "country":"Marshall Islands",
+    "code":"692",
+    "iso":"MH / MHL"
+  },
+  {
+    "country":"Mauritania",
+    "code":"222",
+    "iso":"MR / MRT"
+  },
+  {
+    "country":"Mauritius",
+    "code":"230",
+    "iso":"MU / MUS"
+  },
+  {
+    "country":"Mayotte",
+    "code":"262",
+    "iso":"YT / MYT"
+  },
+  {
+    "country":"Mexico",
+    "code":"52",
+    "iso":"MX / MEX"
+  },
+  {
+    "country":"Micronesia",
+    "code":"691",
+    "iso":"FM / FSM"
+  },
+  {
+    "country":"Moldova",
+    "code":"373",
+    "iso":"MD / MDA"
+  },
+  {
+    "country":"Monaco",
+    "code":"377",
+    "iso":"MC / MCO"
+  },
+  {
+    "country":"Mongolia",
+    "code":"976",
+    "iso":"MN / MNG"
+  },
+  {
+    "country":"Montenegro",
+    "code":"382",
+    "iso":"ME / MNE"
+  },
+  {
+    "country":"Montserrat",
+    "code":"1-664",
+    "iso":"MS / MSR"
+  },
+  {
+    "country":"Morocco",
+    "code":"212",
+    "iso":"MA / MAR"
+  },
+  {
+    "country":"Mozambique",
+    "code":"258",
+    "iso":"MZ / MOZ"
+  },
+  {
+    "country":"Myanmar",
+    "code":"95",
+    "iso":"MM / MMR"
+  },
+  {
+    "country":"Namibia",
+    "code":"264",
+    "iso":"NA / NAM"
+  },
+  {
+    "country":"Nauru",
+    "code":"674",
+    "iso":"NR / NRU"
+  },
+  {
+    "country":"Nepal",
+    "code":"977",
+    "iso":"NP / NPL"
+  },
+  {
+    "country":"Netherlands",
+    "code":"31",
+    "iso":"NL / NLD"
+  },
+  {
+    "country":"Netherlands Antilles",
+    "code":"599",
+    "iso":"AN / ANT"
+  },
+  {
+    "country":"New Caledonia",
+    "code":"687",
+    "iso":"NC / NCL"
+  },
+  {
+    "country":"New Zealand",
+    "code":"64",
+    "iso":"NZ / NZL"
+  },
+  {
+    "country":"Nicaragua",
+    "code":"505",
+    "iso":"NI / NIC"
+  },
+  {
+    "country":"Niger",
+    "code":"227",
+    "iso":"NE / NER"
+  },
+  {
+    "country":"Nigeria",
+    "code":"234",
+    "iso":"NG / NGA"
+  },
+  {
+    "country":"Niue",
+    "code":"683",
+    "iso":"NU / NIU"
+  },
+  {
+    "country":"North Korea",
+    "code":"850",
+    "iso":"KP / PRK"
+  },
+  {
+    "country":"Northern Mariana Islands",
+    "code":"1-670",
+    "iso":"MP / MNP"
+  },
+  {
+    "country":"Norway",
+    "code":"47",
+    "iso":"NO / NOR"
+  },
+  {
+    "country":"Oman",
+    "code":"968",
+    "iso":"OM / OMN"
+  },
+  {
+    "country":"",
+    "code":"",
+    "iso":""
+  },
+  {
+    "country":"",
+    "code":"",
+    "iso":""
+  },
+  {
+    "country":"",
+    "code":"",
+    "iso":""
+  },
+  {
     "country":"",
     "code":"",
     "iso":""
