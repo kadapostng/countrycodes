@@ -885,104 +885,169 @@
     "iso":"RW / RWA"
   },
   {
-    "country":"",
-    "code":"",
-    "iso":""
+    "country":"Saint Barthelemy",
+    "code":"590",
+    "iso":"BL / BLM"
   },
   {
-    "country":"",
-    "code":"",
-    "iso":""
+    "country":"Saint Helena",
+    "code":"290",
+    "iso":"SH / SHN"
   },
   {
-    "country":"",
-    "code":"",
-    "iso":""
+    "country":"Saint Kitts and Nevis",
+    "code":"1-869",
+    "iso":"KN / KNA"
   },
   {
-    "country":"",
-    "code":"",
-    "iso":""
+    "country":"Saint Lucia",
+    "code":"1-758",
+    "iso":"LC / LCA"
   },
   {
-    "country":"",
-    "code":"",
-    "iso":""
+    "country":"Saint Martin",
+    "code":"590",
+    "iso":"MF / MAF"
   },
   {
-    "country":"",
-    "code":"",
-    "iso":""
+    "country":"Saint Pierre and Miquelon",
+    "code":"508",
+    "iso":"PM / SPM"
   },
   {
-    "country":"",
-    "code":"",
-    "iso":""
+    "country":"Saint Vincent and the Grenadines",
+    "code":"1-784",
+    "iso":"VC / VCT"
   },
   {
-    "country":"",
-    "code":"",
-    "iso":""
+    "country":"Samoa",
+    "code":"685",
+    "iso":"WS / WSM"
   },
   {
-    "country":"",
-    "code":"",
-    "iso":""
+    "country":"San Marino",
+    "code":"378",
+    "iso":"SM / SMR"
   },
   {
-    "country":"",
-    "code":"",
-    "iso":""
+    "country":"Sao Tome and Principe",
+    "code":"239",
+    "iso":"ST / STP"
   },
   {
-    "country":"",
-    "code":"",
-    "iso":""
+    "country":"Saudi Arabia",
+    "code":"966",
+    "iso":"SA / SAU"
   },
   {
-    "country":"",
-    "code":"",
-    "iso":""
+    "country":"Senegal",
+    "code":"221",
+    "iso":"SN / SEN"
   },
   {
-    "country":"",
-    "code":"",
-    "iso":""
+    "country":"Serbia",
+    "code":"381",
+    "iso":"RS / SRB"
   },
   {
-    "country":"",
-    "code":"",
-    "iso":""
+    "country":"Seychelles",
+    "code":"248",
+    "iso":"SC / SYC"
   },
   {
-    "country":"",
-    "code":"",
-    "iso":""
+    "country":"Sierra Leone",
+    "code":"232",
+    "iso":"SL / SLE"
   },
   {
-    "country":"",
-    "code":"",
-    "iso":""
+    "country":"Singapore",
+    "code":"65",
+    "iso":"SG / SGP"
   },
   {
-    "country":"",
-    "code":"",
-    "iso":""
+    "country":"Sint Maarten",
+    "code":"1-721",
+    "iso":"SX / SXM"
   },
   {
-    "country":"",
-    "code":"",
-    "iso":""
+    "country":"Slovakia",
+    "code":"421",
+    "iso":"SK / SVK"
   },
   {
-    "country":"",
-    "code":"",
-    "iso":""
+    "country":"Slovenia",
+    "code":"386",
+    "iso":"SI / SVN"
   },
   {
-    "country":"",
-    "code":"",
-    "iso":""
+    "country":"Solomon Islands",
+    "code":"677",
+    "iso":"SB / SLB"
+  },
+  {
+    "country":"Somalia",
+    "code":"252",
+    "iso":"SO / SOM"
+  },
+  {
+    "country":"South Africa",
+    "code":"27",
+    "iso":"ZA / ZAF"
+  },
+  {
+    "country":"South Korea",
+    "code":"82",
+    "iso":"KR / KOR"
+  },
+  {
+    "country":"South Sudan",
+    "code":"211",
+    "iso":"SS / SSD"
+  },
+  {
+    "country":"Spain",
+    "code":"34",
+    "iso":"ES / ESP"
+  },
+  {
+    "country":"Sri Lanka",
+    "code":"94",
+    "iso":"LK / LKA"
+  },
+  {
+    "country":"Sudan",
+    "code":"249",
+    "iso":"SD / SDN"
+  },
+  {
+    "country":"Suriname",
+    "code":"597",
+    "iso":"SR / SUR"
+  },
+  {
+    "country":"Svalbard and Jan Mayen",
+    "code":"47",
+    "iso":"SJ / SJM"
+  },
+  {
+    "country":"Swaziland",
+    "code":"268",
+    "iso":"SZ / SWZ"
+  },
+  {
+    "country":"Sweden",
+    "code":"46",
+    "iso":"SE / SWE"
+  },
+  {
+    "country":"Switzerland",
+    "code":"41",
+    "iso":"CH / CHE"
+  },
+  {
+    "country":"Syria",
+    "code":"963",
+    "iso":"SY / SYR"
   },
   {
     "country":"",
