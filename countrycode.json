@@ -1050,68 +1050,153 @@
     "iso":"SY / SYR"
   },
   {
-    "country":"",
-    "code":"",
-    "iso":""
+    "country":"Taiwan",
+    "code":"886",
+    "iso":"TW / TWN"
   },
   {
-    "country":"",
-    "code":"",
-    "iso":""
+    "country":"Tajikistan",
+    "code":"992",
+    "iso":"TJ / TJK"
   },
   {
-    "country":"",
-    "code":"",
-    "iso":""
+    "country":"Tanzania",
+    "code":"255",
+    "iso":"TZ / TZA"
   },
   {
-    "country":"",
-    "code":"",
-    "iso":""
+    "country":"Thailand",
+    "code":"66",
+    "iso":"TH / THA"
   },
   {
-    "country":"",
-    "code":"",
-    "iso":""
+    "country":"Togo",
+    "code":"228",
+    "iso":"TG / TGO"
   },
   {
-    "country":"",
-    "code":"",
-    "iso":""
+    "country":"Tokelau",
+    "code":"690",
+    "iso":"TK / TKL"
   },
   {
-    "country":"",
-    "code":"",
-    "iso":""
+    "country":"Tonga",
+    "code":"676",
+    "iso":"TO / TON"
   },
   {
-    "country":"",
-    "code":"",
-    "iso":""
+    "country":"Trinidad and Tobago",
+    "code":"1-868",
+    "iso":"TT / TTO"
   },
   {
-    "country":"",
-    "code":"",
-    "iso":""
+    "country":"Tunisia",
+    "code":"216",
+    "iso":"TN / TUN"
   },
   {
-    "country":"",
-    "code":"",
-    "iso":""
+    "country":"Turkey",
+    "code":"90",
+    "iso":"TR / TUR"
   },
   {
-    "country":"",
-    "code":"",
-    "iso":""
+    "country":"Turkmenistan",
+    "code":"993",
+    "iso":"TM / TKM"
   },
   {
-    "country":"",
-    "code":"",
-    "iso":""
+    "country":"Turks and Caicos Islands",
+    "code":"1-649",
+    "iso":"TC / TCA"
   },
   {
-    "country":"",
-    "code":"",
-    "iso":""
+    "country":"Tuvalu",
+    "code":"688",
+    "iso":"TV / TUV"
+  },
+  {
+    "country":"U.S. Virgin Islands",
+    "code":"1-340",
+    "iso":"VI / VIR"
+  },
+  {
+    "country":"Uganda",
+    "code":"256",
+    "iso":"UG / UGA"
+  },
+  {
+    "country":"Ukraine",
+    "code":"380",
+    "iso":"UA / UKR"
+  },
+  {
+    "country":"United Arab Emirates",
+    "code":"971",
+    "iso":"AE / ARE"
+  },
+  {
+    "country":"United Kingdom",
+    "code":"44",
+    "iso":"GB / GBR"
+  },
+  {
+    "country":"United States",
+    "code":"1",
+    "iso":"US / USA"
+  },
+  {
+    "country":"Uruguay",
+    "code":"598",
+    "iso":"UY / URY"
+  },
+  {
+    "country":"Uzbekistan",
+    "code":"998",
+    "iso":"UZ / UZB"
+  },
+  {
+    "country":"Vanuatu",
+    "code":"678",
+    "iso":"VU / VUT"
+  },
+  {
+    "country":"Vatican",
+    "code":"379",
+    "iso":"VA / VAT"
+  },
+  {
+    "country":"Venezuela",
+    "code":"58",
+    "iso":"VE / VEN"
+  },
+  {
+    "country":"Vietnam",
+    "code":"84",
+    "iso":"VN / VNM"
+  },
+  {
+    "country":"Wallis and Futuna",
+    "code":"681",
+    "iso":"WF / WLF"
+  },
+  {
+    "country":"Western Sahara",
+    "code":"212",
+    "iso":"EH / ESH"
+  },
+  {
+    "country":"Yemen",
+    "code":"967",
+    "iso":"YE / YEM"
+  },
+  {
+    "country":"Zambia",
+    "code":"260",
+    "iso":"ZM / ZMB"
+  },
+  {
+    "country":"Zimbabwe",
+    "code":"263",
+    "iso":"ZW / ZWE"
   }
 ]
